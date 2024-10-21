@@ -1,4 +1,4 @@
-# AIO-Snippets: All in One Snippets
+# Code Snippets: All in One Snippets - In Different Programming Languages
 
 **Owner:** IN3PIRE
 
